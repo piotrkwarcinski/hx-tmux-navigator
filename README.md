@@ -1,4 +1,4 @@
-### hx-tmux-navigator
+# hx-tmux-navigator
 
 Seamlessly navigate between tmux panes and helix splits.
 

@@ -33,6 +33,5 @@ bind-key -n 'C-l' if-shell "$is_hx" 'send-keys C-l'  'select-pane -R'
       (C-h ":navigator.move-left")
       (C-l ":navigator.move-right")
       (C-j ":navigator.move-down")
-      (C-k ":navigator.move-up")
-      (C-t ":term.open-debug-window")))
+      (C-k ":navigator.move-up")))
 ```

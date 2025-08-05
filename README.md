@@ -7,8 +7,8 @@ Seamlessly navigate between tmux panes and helix splits.
 forge pkg install --git "https://github.com/piotrkwarcinski/hx-tmux-navigator.git"
 ```
 
-### Configuration
-The following allows to use C-[hjkl] to navigate both tmux panes and hx splits.
+## Configuration
+The following allows to use `C-[hjkl]` to navigate both tmux panes and hx splits.
 
 * Add the following to `tmux.conf`
 ```

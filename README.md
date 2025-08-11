@@ -3,6 +3,12 @@
 Seamlessly navigate between tmux panes and helix splits.
 
 ## Installation
+
+Helix steel plugins are managed using the `forge` package manager which can be installed either by:
+* Executing `cargo xtask steel` on [the helix plugin branch](https://github.com/helix-editor/helix/pull/8675) (recommended)
+* [Building Steel](https://github.com/mattwparas/steel?tab=readme-ov-file#full-install)
+
+The plugin itself can be installed by using:
 ```
 forge pkg install --git "https://github.com/piotrkwarcinski/hx-tmux-navigator.git"
 ```
